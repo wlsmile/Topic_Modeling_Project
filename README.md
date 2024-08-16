@@ -1,5 +1,5 @@
 ## Topic Modeling Project
-This project aims to practice topic analysis by using nltk, Bert, Sklearn, and other python libraries.
+This project aims to Showcase topic analysis by using nltk, Bert, Sklearn, and other python libraries, and visulize the result with interactive topic model visualization tool pyLDAvis.
 
 
 ### Visualization Result
